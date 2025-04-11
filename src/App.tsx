@@ -13,100 +13,100 @@ function App() {
     <main className={style({
       height: "screen",
       overflow: "scroll"
-})}>
+    })}>
       <Form>
-      <RadioGroup>
+        <RadioGroup>
           <Radio value="soccer">Soccer</Radio>
           <Radio value="baseball">Baseball</Radio>
           <Radio value="football" isDisabled>Football</Radio>
           <Radio value="basketball">Basketball</Radio>
-                </RadioGroup>
-              <RadioGroup>
+        </RadioGroup>
+        <RadioGroup>
           <Radio value="soccer">Soccer</Radio>
           <Radio value="baseball">Baseball</Radio>
           <Radio value="football" isDisabled>Football</Radio>
           <Radio value="basketball">Basketball</Radio>
-                </RadioGroup>
-              <RadioGroup>
+        </RadioGroup>
+        <RadioGroup>
           <Radio value="soccer">Soccer</Radio>
           <Radio value="baseball">Baseball</Radio>
           <Radio value="football" isDisabled>Football</Radio>
           <Radio value="basketball">Basketball</Radio>
-                </RadioGroup>
-              <RadioGroup>
+        </RadioGroup>
+        <RadioGroup>
           <Radio value="soccer">Soccer</Radio>
           <Radio value="baseball">Baseball</Radio>
           <Radio value="football" isDisabled>Football</Radio>
           <Radio value="basketball">Basketball</Radio>
-                </RadioGroup>
-              <RadioGroup>
+        </RadioGroup>
+        <RadioGroup>
           <Radio value="soccer">Soccer</Radio>
           <Radio value="baseball">Baseball</Radio>
           <Radio value="football" isDisabled>Football</Radio>
           <Radio value="basketball">Basketball</Radio>
-                </RadioGroup>
-              <RadioGroup>
+        </RadioGroup>
+        <RadioGroup>
           <Radio value="soccer">Soccer</Radio>
           <Radio value="baseball">Baseball</Radio>
           <Radio value="football" isDisabled>Football</Radio>
           <Radio value="basketball">Basketball</Radio>
-                </RadioGroup>
-              <RadioGroup>
+        </RadioGroup>
+        <RadioGroup>
           <Radio value="soccer">Soccer</Radio>
           <Radio value="baseball">Baseball</Radio>
           <Radio value="football" isDisabled>Football</Radio>
           <Radio value="basketball">Basketball</Radio>
-                </RadioGroup>
-              <RadioGroup>
+        </RadioGroup>
+        <RadioGroup>
           <Radio value="soccer">Soccer</Radio>
           <Radio value="baseball">Baseball</Radio>
           <Radio value="football" isDisabled>Football</Radio>
           <Radio value="basketball">Basketball</Radio>
-                </RadioGroup>
-              <RadioGroup>
+        </RadioGroup>
+        <RadioGroup>
           <Radio value="soccer">Soccer</Radio>
           <Radio value="baseball">Baseball</Radio>
           <Radio value="football" isDisabled>Football</Radio>
           <Radio value="basketball">Basketball</Radio>
-                </RadioGroup>
-              <RadioGroup>
+        </RadioGroup>
+        <RadioGroup>
           <Radio value="soccer">Soccer</Radio>
           <Radio value="baseball">Baseball</Radio>
           <Radio value="football" isDisabled>Football</Radio>
           <Radio value="basketball">Basketball</Radio>
-                </RadioGroup>
-              <RadioGroup>
+        </RadioGroup>
+        <RadioGroup>
           <Radio value="soccer">Soccer</Radio>
           <Radio value="baseball">Baseball</Radio>
           <Radio value="football" isDisabled>Football</Radio>
           <Radio value="basketball">Basketball</Radio>
-                </RadioGroup>
-              <RadioGroup>
+        </RadioGroup>
+        <RadioGroup>
           <Radio value="soccer">Soccer</Radio>
           <Radio value="baseball">Baseball</Radio>
           <Radio value="football" isDisabled>Football</Radio>
           <Radio value="basketball">Basketball</Radio>
-                </RadioGroup>
-              <RadioGroup>
+        </RadioGroup>
+        <RadioGroup>
           <Radio value="soccer">Soccer</Radio>
           <Radio value="baseball">Baseball</Radio>
           <Radio value="football" isDisabled>Football</Radio>
           <Radio value="basketball">Basketball</Radio>
-                </RadioGroup>
-              <RadioGroup>
+        </RadioGroup>
+        <RadioGroup>
           <Radio value="soccer">Soccer</Radio>
           <Radio value="baseball">Baseball</Radio>
           <Radio value="football" isDisabled>Football</Radio>
           <Radio value="basketball">Basketball</Radio>
-                </RadioGroup>
-              <RadioGroup>
+        </RadioGroup>
+        <RadioGroup>
           <Radio value="soccer">Soccer</Radio>
           <Radio value="baseball">Baseball</Radio>
           <Radio value="football" isDisabled>Football</Radio>
           <Radio value="basketball">Basketball</Radio>
         </RadioGroup>
       </Form>
-        
+
 
     </main>
   );
